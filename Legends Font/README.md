@@ -3,4 +3,5 @@ This font is based on the font **Phosphate Pro**, which can be found [here](http
 
 Only the uppercase letters have been modified. The lowercase letters represent the original typeface.
 ![Font Sample](LegendsArcade-sample.png)
+
 I relinquish all rights to my modifications to this font, minor as they are. The original font is free for non-commercial use.
