@@ -5,7 +5,7 @@
 
 ![Legends Ultimate Logo](Legends%20Ultimate%20Logo.png)
 
-![Sample Marquee Image](samples/AppStoreX-.jpg)
+![Sample Marquee Image](samples/ArcadeNet-.jpg)
 
 ![Sample Marquee Image](samples/BYOG-.jpg)
 
