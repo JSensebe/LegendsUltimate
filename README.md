@@ -1,5 +1,5 @@
 # LegendsUltimate
-Assets for the **AtGames Legends Ultimate**.
+Assets for the **AtGames Legends Ultimate** and **BitLCD**.
 
 `Marquees` contains my BitLCD marquees.
 
