@@ -7,7 +7,7 @@ There are two video marquees that go with the still image. One displays arcade g
 
 They need to renamed to replace a menu marquee, such as "Games".
 
-## CoinOpsX.jpg/CoinOpsX.mp4
+## CoinOPSX.jpg/CoinOPSX.mp4
 This is a marquee similar to the Legends Ultimate marquee above, but for Coin Ops X. It doesn't waste time with a black background.
 ![CoinOpsX marquee](CoinOPSX.jpg)
 
