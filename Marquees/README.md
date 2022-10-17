@@ -5,6 +5,8 @@ This is a marquee designed to mimic the original static ALU 1.1 marquee.
 ![Legends Ultimate marquee](Legends%20Ultimate%20Marquee.jpg)
 There are two video marquees that go with the still image. One displays arcade games, and the other is limited to games contained on the ALU out of the box, but displays both arcade and console games.
 
+https://user-images.githubusercontent.com/71462793/196085481-9397a83f-a5ff-4214-aabe-3b9dd106f5b5.mp4
+
 They need to renamed to replace a menu marquee, such as "Games".
 
 ## CoinOPSX.jpg/CoinOPSX.mp4
